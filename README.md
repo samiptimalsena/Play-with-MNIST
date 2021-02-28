@@ -14,4 +14,5 @@ streamlit run app.py
 ```
 
 # Demo
-![demo](https://user-images.githubusercontent.com/51244494/109425062-90a81f00-7a0e-11eb-8b4c-1e918b6ae3ce.gif)
+
+![](demo.gif)
